@@ -2,7 +2,6 @@
 //  NavigationBarView.swift
 //  Nocostorm
 //
-//  Created by Sachith Iyengar on 10/20/21.
 //
 
 import SwiftUI
